@@ -7,4 +7,6 @@ At the top left we have statistics: life, energy, acquired score, time, and the 
 The player wins when he has managed to reach the end of the round number without being killed. (10th round)
 The game is written in Java programming language.
 
-![Alt text](/Screen/Screen_menu.jpg?raw=true "Menu")
+![Alt text](/Screen/Screen_menu.png?raw=true "Menu")
+
+
