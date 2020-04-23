@@ -8,5 +8,9 @@ The player wins when he has managed to reach the end of the round number without
 The game is written in Java programming language.
 
 ![Alt text](/Screen/Screen_menu.png?raw=true "Menu")
+![Alt text](/Screen/Screen_game(3).png?raw=true "Game 1")
+![Alt text](/Screen/Screen_game(2).png?raw=true "Game 2")
+![Alt text](/Screen/Screen_game(1).png?raw=true "Game 2")
+![Alt text](/Screen/Screen_win.png?raw=true "Win")
 
 
